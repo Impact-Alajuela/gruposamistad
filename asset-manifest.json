@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gruposamistad/static/css/main.47a1dfa7.css",
+    "main.css": "/gruposamistad/static/css/main.8aaa8a85.css",
     "main.js": "/gruposamistad/static/js/main.9b591a13.js",
     "static/js/787.87fd4a0c.chunk.js": "/gruposamistad/static/js/787.87fd4a0c.chunk.js",
     "static/media/logoblanco.png": "/gruposamistad/static/media/logoblanco.d3d14443e3b7efb0d503.png",
     "index.html": "/gruposamistad/index.html",
-    "main.47a1dfa7.css.map": "/gruposamistad/static/css/main.47a1dfa7.css.map",
+    "main.8aaa8a85.css.map": "/gruposamistad/static/css/main.8aaa8a85.css.map",
     "main.9b591a13.js.map": "/gruposamistad/static/js/main.9b591a13.js.map",
     "787.87fd4a0c.chunk.js.map": "/gruposamistad/static/js/787.87fd4a0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47a1dfa7.css",
+    "static/css/main.8aaa8a85.css",
     "static/js/main.9b591a13.js"
   ]
 }
